@@ -1,4 +1,4 @@
-<!-- 
+<-- 
 🧠 VARIÁVEIS TÉCNICAS:
 
 Mensagem do cliente: {{gpt_transcribe.1.transcription}}{{message.body}}  
